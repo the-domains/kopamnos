@@ -6,8 +6,8 @@ inLanguage: null
 starred: false
 keywords: []
 description: 'Velika je sramota spominjati Teslino ime rame uz rame sa ovakvim proizvodom i ne sumnjam da bi Tesla, da je danas živ, bio propisno iznerviran.'
-datePublished: '2015-12-01T11:09:04.778Z'
-dateModified: '2015-12-01T10:56:13.643Z'
+datePublished: '2015-12-01T12:53:57.105Z'
+dateModified: '2015-12-01T12:53:53.521Z'
 title: Tesline purpurne ploče
 author: []
 sourcePath: _posts/2015-12-01-tesline-purpurne-ploce.md
@@ -22,6 +22,8 @@ url: tesline-purpurne-ploce/index.html
 _type: Article
 
 ---
+![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/6accd863-3801-4484-b2fc-1ac724d13900.jpg)
+
 Pre neki dan, sasvim slučajno, otac mi je ispričao o nečemu što nisam znao da postoji. U pitanju su [Tesline purpune ploče][0].
 
 Nikad nisam čuo za ovako nešto pa sam odlučio da malo istražim i saznam više o njima.
