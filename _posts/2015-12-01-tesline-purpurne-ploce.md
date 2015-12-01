@@ -6,18 +6,18 @@ inLanguage: null
 starred: false
 keywords: []
 description: 'Velika je sramota spominjati Teslino ime rame uz rame sa ovakvim proizvodom i ne sumnjam da bi Tesla, da je danas živ, bio propisno iznerviran.'
-datePublished: '2015-12-01T10:44:26.564Z'
-dateModified: '2015-12-01T10:43:19.028Z'
+datePublished: '2015-12-01T11:09:04.778Z'
+dateModified: '2015-12-01T10:56:13.643Z'
 title: Tesline purpurne ploče
 author: []
+sourcePath: _posts/2015-12-01-tesline-purpurne-ploce.md
+published: true
 authors: []
 publisher:
   name: null
   domain: null
   url: null
   favicon: null
-sourcePath: _posts/2015-12-01-tesline-purpurne-ploce.md
-published: true
 url: tesline-purpurne-ploce/index.html
 _type: Article
 
