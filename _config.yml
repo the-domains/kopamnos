@@ -1,7 +1,7 @@
 name: kopamnos
 favicon: null
-layout_spectrum: 0.4141308655962348
-typography_spectrum: 0.8791149195749313
+layout_spectrum: 0.9993
+typography_spectrum: 0.7637
 title: KopamNos
 cta:
   domain: null
@@ -22,7 +22,7 @@ color:
     - '#CD5334'
     - '#EDB88B'
     - '#FAD8D6'
-  brandStrength: 0.7561890601646155
+  brandStrength: 0.75
   lightness: 0.1929198051802814
   saturation: 0.6140788719058037
   rhythmicContrast: 0.7044718654360622
