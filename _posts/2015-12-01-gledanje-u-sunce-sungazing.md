@@ -6,22 +6,24 @@ inLanguage: null
 starred: false
 keywords: []
 description: Gledanje u Sunce je veoma opasna pseudonaučna radnja koja izvrće osnovne naučne činjenice i tumači ih potpuno pogrešno.
-datePublished: '2015-12-01T11:08:33.812Z'
-dateModified: '2015-12-01T11:08:05.382Z'
+datePublished: '2015-12-01T12:53:15.713Z'
+dateModified: '2015-12-01T12:53:09.448Z'
 title: Gledanje u sunce (Sungazing)
 author: []
+sourcePath: _posts/2015-12-01-gledanje-u-sunce-sungazing.md
+published: true
 authors: []
 publisher:
   name: null
   domain: null
   url: null
   favicon: null
-sourcePath: _posts/2015-12-01-gledanje-u-sunce-sungazing.md
-published: true
 url: gledanje-u-sunce-sungazing/index.html
 _type: Article
 
 ---
+![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/b2b374f9-20b2-4b9c-be1b-8cc138f3dcdd.jpg)
+
 Gledanje direktno u Sunce je jedna od onih stvari koje većina ljudi nauče da ne rade kada su veoma mladi. U suštini, ljudski organizam je tako koncipiran da ako pokušate da gledate u neko svetlo koje je dovoljno jako da ošteti mrežnjaču, organizam će osetiti bol i maksimalno će se potruditi da sam od sebe zatvoriti očne kapke i time vam skrenuti pogled. Govoriti ljudima da ne gledaju u Sunce je ekvivalentno kada biste im govorili da ne stavljaju svoju ruku u vatru jer će se opeći.
 
 Izuzetak predstavljaju delimična pomračenja Sunca - kada je većinski deo Sunca blokiran od strane Meseca, a mali deo ipak ostaje vidljiv. Taj delić je još uvek dovoljno veliki i jak da odvali delove vaše mrežnjače, ali premali da izazove bol. U tom smislu je i dalje pametan savet da, kada se desi pomračenje Sunca, ne gledate direktno u njega.
@@ -50,7 +52,6 @@ Na kraju je ova žena odozgo izjavila da je njen experiment bio "izuzetno uspeš
 U svom poslednjem videu kaže da je sada otvorila ovu oblast nauci i kako će njene akcije promeniti svet. Kakva besmislica. 
 
 ****
-![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/312e9431-0f56-47b5-95f8-96f9086752d3.jpg)
 
 [0]: http://guardianlv.com/2013/05/nasa-confirms-super-human-abilities-gained/
 [1]: http://q13fox.com/2013/06/05/seattle-woman-attempts-to-live-on-sunlight-water/#axzz2VSmso96j
